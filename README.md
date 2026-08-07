@@ -8,7 +8,7 @@ Welcome to the official repository for the **CodeAlpha Data Science Internship**
 
 ```text
 CodeAlpha/
-├── unemployment/                          # Task 1: Unemployment Analysis
+├── CodeAlpha_Unemployment Analysis with Python/                          # Task 1: Unemployment Analysis
 │   ├── Unemployment in India.csv         # Primary rural vs urban dataset
 │   ├── Unemployment_Rate_upto_11_2020.csv # Regional & time-series dataset (2020)
 │   ├── unemployment_analysis.py          # Modular Python analysis script
@@ -19,7 +19,7 @@ CodeAlpha/
 │       ├── top_affected_states.png
 │       └── unemployment_time_series_trends.png
 │
-├── car prediction/                        # Task 2: Car Price Prediction
+├── CodeAlpha_Car Price Prediction with Machine Learning/                        # Task 2: Car Price Prediction
 │   ├── car data.csv                      # Used car dataset
 │   ├── car_price_prediction.py           # Machine learning training script
 │   ├── car_price_prediction.ipynb        # Interactive Jupyter Notebook
@@ -28,7 +28,7 @@ CodeAlpha/
 │       ├── car_price_model.pkl           # Best model binary (Gradient Boosting)
 │       └── feature_importance.png
 │
-├── Sales Prediction/                      # Task 3: Sales Prediction
+├──CodeAlpha_Sales Prediction using Python/                      # Task 3: Sales Prediction
 │   ├── Advertising.csv                   # Advertising spend dataset (TV, Radio, Newspaper)
 │   ├── sales_prediction.py               # Regression modeling script
 │   ├── sales_prediction.ipynb            # Interactive Jupyter Notebook
